@@ -1,0 +1,50 @@
+[
+  {
+    "role": "user",
+    "content": "olá"
+  },
+  {
+    "role": "assistant",
+    "content": "Olá! Estou aqui para te ajudar com algumas dúvidas que possa ter sobre sua saúde mental. Podemos começar?"
+  },
+  {
+    "role": "user",
+    "content": "sim"
+  },
+  {
+    "role": "assistant",
+    "content": "Entendi! Gostaria que respondêssemos sobre algo relacionado à saúde mental agora. Como você está se sentindo hoje? Há algo em particular que deseja falar sobre?"
+  },
+  {
+    "role": "user",
+    "content": "estou um pouco nervoso"
+  },
+  {
+    "role": "assistant",
+    "content": "Estou sentindo muitos sentimentos ao mesmo tempo? Preciso saber mais sobre como você está se sentindo hoje."
+  },
+  {
+    "role": "user",
+    "content": "sim... uma tristeza com um desespero"
+  },
+  {
+    "role": "assistant",
+    "content": "Entendo que você está sentindo algo difícil agora. Como você está se sentindo em relação a isso?\nQual dos sentimentos (tristeza ou desespero) parece ser mais forte para você neste momento?"
+  },
+  {
+    "role": "user",
+    "content": "tristeza"
+  },
+  {
+    "role": "assistant",
+    "content": "Eu entendo que a tristeza é normal às vezes. Como você está se sentindo hoje?"
+  },
+  {
+    "role": "user",
+    "content": "mal"
+  },
+  {
+    "role": "assistant",
+    "content": "Estou passando por algum problema? Preciso saber mais para poder te ajudar da melhor forma possível. Como você está se sentindo hoje?"
+  }
+]
