@@ -10,6 +10,7 @@ A solução integra geração de linguagem com recuperação de informações em
 O objetivo é explorar como a Ciência de Dados e a Inteligência Artificial podem contribuir para ampliar o acesso a informações confiáveis na área da saúde mental.
 
 🎯 Objetivos
+
 🔹 Objetivo Geral
 
 Investigar e aplicar técnicas de RAG e Fine-Tuning para apoiar consultas relacionadas ao diagnóstico em saúde mental.
