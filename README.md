@@ -1,6 +1,7 @@
 # Rag.Fine_Tuning
 
 🧠 Sistema de Apoio ao Diagnóstico em Saúde Mental com RAG e Fine-Tuning
+
 📌 Sobre o Projeto
 
 Este projeto propõe o desenvolvimento de um sistema inteligente baseado em Modelos de Linguagem (LLMs) para apoio ao diagnóstico em saúde mental, utilizando as técnicas de Retrieval-Augmented Generation (RAG) e Fine-Tuning.
@@ -17,25 +18,25 @@ Investigar e aplicar técnicas de RAG e Fine-Tuning para apoiar consultas relaci
 
 🔹 Objetivos Específicos
 
-Realizar revisão bibliográfica sobre IA aplicada à saúde mental
+- Realizar revisão bibliográfica sobre IA aplicada à saúde mental
 
-Implementar um protótipo baseado em RAG
+- Implementar um protótipo baseado em RAG
 
-Aplicar Fine-Tuning com dados especializados (DSM-5, CID-11)
+- Aplicar Fine-Tuning com dados especializados (DSM-5, CID-11)
 
-Avaliar métricas como precisão, relevância e clareza das respostas
+- Avaliar métricas como precisão, relevância e clareza das respostas
 
-Discutir riscos, limitações e aspectos éticos
+- Discutir riscos, limitações e aspectos éticos
 
-🏗️ Arquitetura do Projeto
+🏗️ # Arquitetura do Projeto
 
 O sistema é dividido em três etapas principais:
 
-Recuperação de Informação (RAG)
+- Recuperação de Informação (RAG)
 
-Busca em bases científicas e documentos clínicos
+- Busca em bases científicas e documentos clínicos
 
-Integração com fontes como PubMed, SciELO e OMS
+- Integração com fontes como PubMed, SciELO e OMS
 
 Modelo de Linguagem
 
