@@ -91,7 +91,8 @@ Avaliação com profissionais da área da saúde
 
 Expansão para outras especialidades médicas
 
-👨‍💻 Autor
+👨‍💻 Autores
 
-Projeto desenvolvido no curso de Tecnólogo em Ciência de Dados.
+Cayan Lucas, Arthur de Lima e Kayllan Alcantara
+Projeto desenvolvido por alunos no curso de Tecnólogo em Ciência de Dados - UEPB.
 Foco em aplicação prática de IA com impacto social.
