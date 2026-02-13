@@ -40,27 +40,27 @@ O sistema é dividido em três etapas principais:
 
 Modelo de Linguagem
 
-Utilização de modelo pré-treinado (ex: LLaMA, Falcon ou similares)
+- Utilização de modelo pré-treinado (ex: LLaMA, Falcon ou similares)
 
-Fine-Tuning
+- Fine-Tuning
 
-Ajuste do modelo com dados específicos da área da saúde mental
+- Ajuste do modelo com dados específicos da área da saúde mental
 
-Uso de técnicas eficientes como LoRA e PEFT
+- Uso de técnicas eficientes como LoRA e PEFT
 
 🛠️ Tecnologias Utilizadas
 
 Python
 
-LLMs (Modelos de Linguagem de Grande Escala)
+- LLMs (Modelos de Linguagem de Grande Escala)
 
-RAG (Retrieval-Augmented Generation)
+- RAG (Retrieval-Augmented Generation)
 
-Fine-Tuning (LoRA / PEFT)
+- Fine-Tuning (LoRA / PEFT)
 
-LangChain / Haystack / LlamaIndex
+- LangChain / Haystack / LlamaIndex
 
-Bases científicas (PubMed, SciELO)
+- Bases científicas (PubMed, SciELO)
 
 📊 Avaliação
 
@@ -83,16 +83,18 @@ O sistema não substitui avaliação médica profissional e deve ser utilizado a
 
 🚀 Possíveis Expansões Futuras
 
-Implementação de interface web
+- Implementação de interface web
 
-Integração com APIs médicas
+- Integração com APIs médicas
 
-Avaliação com profissionais da área da saúde
+- Avaliação com profissionais da área da saúde
 
-Expansão para outras especialidades médicas
+- Expansão para outras especialidades médicas
 
 👨‍💻 Autores
 
 Cayan Lucas, Arthur de Lima e Kayllan Alcantara
+
 Projeto desenvolvido por alunos no curso de Tecnólogo em Ciência de Dados - UEPB.
+
 Foco em aplicação prática de IA com impacto social.
